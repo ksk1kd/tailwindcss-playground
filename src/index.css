@@ -5,3 +5,9 @@
   margin: 0 auto;
   padding: 20px;
 }
+
+@layer base {
+  html {
+    box-sizing: border-box;
+  }
+}
