@@ -6,6 +6,10 @@
   padding: 20px;
 }
 
+@theme {
+  --color-mint-500: oklch(0.72 0.11 178);
+}
+
 @layer base {
   html {
     box-sizing: border-box;

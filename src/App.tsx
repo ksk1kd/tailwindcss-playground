@@ -11,6 +11,7 @@ function App() {
             Sample Link
           </a>
         </p>
+        <p className="bg-mint-500">Background color is mint.</p>
       </div>
     </>
   )
