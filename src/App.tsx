@@ -11,6 +11,11 @@ function App() {
             Sample Link
           </a>
         </p>
+        <p>
+          <a href="/" className="btn">
+            Button
+          </a>
+        </p>
         <p className="bg-mint-500">Background color is mint.</p>
       </div>
     </>
