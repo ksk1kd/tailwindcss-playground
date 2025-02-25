@@ -1,7 +1,9 @@
 function App() {
   return (
     <>
-      <div className="container">Contents</div>
+      <div className="container">
+        <h1 className="text-6xl">Tailwind CSS Playground</h1>
+      </div>
     </>
   )
 }
